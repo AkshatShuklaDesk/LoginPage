@@ -18,7 +18,7 @@ Building a login page is a fundamental part of web development. In this project,
 Login Page Screenshot
 
 Tech Stack
-Java NetBeans: Used for the front-end development of the login page.
+Apache NetBeans: Used for the front-end development of the login page.
 XAMPP: Provides a local web server for testing the application.
 phpMyAdmin: A web-based tool for managing the MySQL database.
 Features
