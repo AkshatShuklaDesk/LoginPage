@@ -15,8 +15,6 @@ License
 Overview
 Building a login page is a fundamental part of web development. In this project, we've created a robust login system using Java for the front-end and a MySQL database to securely store user credentials. XAMPP is used to set up a local web server for testing, and phpMyAdmin assists in managing the database.
 
-Login Page Screenshot
-
 Tech Stack
 Apache NetBeans: Used for the front-end development of the login page.
 XAMPP: Provides a local web server for testing the application.
